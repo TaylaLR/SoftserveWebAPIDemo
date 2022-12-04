@@ -1,0 +1,50 @@
+[
+  {
+    "CustomerID": "27475e48-2356-4c8d-a5b1-d27b0d7d5b73",
+    "FirstName": "Test",
+    "LastName": "One",
+    "UserName": "TestOne",
+    "EmailAddress": "testone@gmail.com",
+    "DateOfBirth": "2022-12-03T14:36:12.7839509+02:00",
+    "Age": 20,
+    "DateCreated": "2022-12-03T14:36:12.7839513+02:00",
+    "DateEdited": "2022-12-03T14:36:12.7839513+02:00",
+    "IsDeleted": false
+  },
+  {
+    "CustomerID": "6c1479a9-1fd9-4d23-8f88-acec76d4529d",
+    "FirstName": "JSONTest",
+    "LastName": "Three",
+    "UserName": "JSONTestThree",
+    "EmailAddress": "tafhnjaf",
+    "DateOfBirth": "2022-12-03T12:35:54.32Z",
+    "Age": 0,
+    "DateCreated": "2022-12-03T14:36:12.783809+02:00",
+    "DateEdited": "2022-12-03T14:36:12.7838091+02:00",
+    "IsDeleted": false
+  },
+  {
+    "CustomerID": "057d984b-5351-4239-9e24-5a4d77c5de78",
+    "FirstName": "string",
+    "LastName": "string",
+    "UserName": "stringstring",
+    "EmailAddress": "user@example.com",
+    "DateOfBirth": "2022-12-03T12:46:58.543Z",
+    "Age": 0,
+    "DateCreated": "2022-12-03T14:47:03.4771597+02:00",
+    "DateEdited": "2022-12-03T14:47:03.4771598+02:00",
+    "IsDeleted": false
+  },
+  {
+    "CustomerID": "cad2b99d-7d23-459b-8a47-fc238a3540b4",
+    "FirstName": "string",
+    "LastName": "string",
+    "UserName": "stringstring",
+    "EmailAddress": "user@exampl",
+    "DateOfBirth": "2022-12-03T12:46:58.543Z",
+    "Age": 0,
+    "DateCreated": "2022-12-03T14:47:40.9312933+02:00",
+    "DateEdited": "2022-12-03T14:47:40.9312934+02:00",
+    "IsDeleted": false
+  }
+]
